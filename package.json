@@ -1,6 +1,6 @@
 {
   "name": "inkstream-cli",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "CLI to sync project docs into a central Vercel-deployed docs site",
   "main": "dist/index.js",
   "bin": {
